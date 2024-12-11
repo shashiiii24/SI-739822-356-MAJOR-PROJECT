@@ -6,3 +6,7 @@
 ![Screenshot 2024-12-11 152944](https://github.com/user-attachments/assets/0fd9cc31-5f4a-4192-a4b2-010c8914d051)
 # INTRODUCTION PAGE
 ![Screenshot 2024-12-11 153008](https://github.com/user-attachments/assets/0e8681fb-538d-44e8-b3ac-3f17518021d8)
+# UPLOAD PAGE
+![Upload](https://github.com/user-attachments/assets/5afb458c-f2f4-4f09-becd-6b904888880e)
+
+
